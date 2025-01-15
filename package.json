@@ -1,0 +1,21 @@
+{
+    "name": "webp-convertert",
+    "version": "1.0.0",
+    "description": "A simple webp converter using Node.js and webp-converter library",
+    "main": "app.js",
+    "scripts": {
+      "start": "node app.js"
+    },
+    "keywords": [
+      "webp",
+      "converter",
+      "image",
+      "docker"
+    ],
+    "author": "Votre Nom",
+    "license": "MIT",
+    "dependencies": {
+      "sharp": "^0.33.4"
+    }
+  }
+  
